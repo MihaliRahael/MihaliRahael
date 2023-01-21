@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi 👋, I'm Bonny
 
-<!--
-**MihaliRahael/MihaliRahael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m a passonate Artificial Intelligence Engineer!
+- 🌱 I’m currently learning YOLO and Vision Transformers
+- 🌋 I’m always looking for challenging work oppurtunities ahead.
+- ⚡ I'm font of Data Science, Writing and Stock Market
+- 📫 How to reach me: [Mail me](mailto:philipbonny18@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### I know a little about
+- Python
+- Machine Learning
+- Deep Learning
+- DevOps
+- AWS
+- Github
+- Guthub Actions
+- Docker
+- MongoDB
+- Kubernetes
+- FastAPI
+- Linux
+- Visual Studio Code
+
