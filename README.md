@@ -3,8 +3,8 @@
 
 - 🔭 I’m a passonate Artificial Intelligence Engineer!
 - 🌱 I’m currently learning YOLO and Vision Transformers
-- 🌋 I’m always looking for challenging work oppurtunities ahead.
-- ⚡ I'm font of Data Science, Writing and Stock Market
+- 🌋 I’m a novice Authour and Algo trader
+- ⚡ I'm interested in innovative Data Science projects, Writing and Stock Market
 - 📫 How to reach me: [Mail me](mailto:philipbonny18@gmail.com) 
 
 
