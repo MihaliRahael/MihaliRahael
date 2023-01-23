@@ -12,6 +12,7 @@
 - Python
 - Machine Learning
 - Deep Learning
+- Computer Vision
 - DevOps
 - AWS
 - Github
