@@ -1,10 +1,11 @@
 ### Hi 👋, I'm Bonny
 
 
-- 🔭 I’m a passonate Artificial Intelligence Engineer!
-- 🌱 I’m currently learning YOLO and Vision Transformers
+- 🔭 I’m an Artificial Intelligence Engineer!
+- 🌱 I'm working in Large Language Models based NLP projects
 - 🌋 I’m a novice Author and Algo trader
-- ⚡ I'm interested in innovative Data Science projects, Writing and Stock Market
+- 🌋 I'm an AI/Data science trainer
+- ⚡ I'm interested in innovative AI projects, Writing and Stock Market
 - 📫 How to reach me: [Mail me](mailto:philipbonny18@gmail.com) 
 
 
