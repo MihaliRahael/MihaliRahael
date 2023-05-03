@@ -13,6 +13,8 @@
 - Python
 - Machine Learning
 - Deep Learning
+- NLP
+- LLM (ChatGPT, AutoGPT, BERT, ALBERT etc)
 - Computer Vision
 - DevOps
 - AWS
@@ -24,4 +26,3 @@
 - FastAPI
 - Linux
 - Visual Studio Code
-
